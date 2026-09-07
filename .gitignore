@@ -1,0 +1,24 @@
+# 虚拟环境
+.venv/
+venv/
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# chroma向量数据库文件夹
+iot_rag_db/
+
+# 密钥环境文件，防止密钥上传泄露！
+.env
+
+# pycharm配置文件夹
+.idea/
+
+# 日志
+*.log
+
+#牛牛bb
+readme_物联网专业问答助手.md
+img.png
